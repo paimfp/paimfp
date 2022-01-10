@@ -8,8 +8,8 @@ Eventually I decided to work full time in this area that I am passionate about.
 and the world of frontend develop in general: 
 CSS, Javascript and frameworks, especially Angular. 
 I enjoy and have some projects using NodeJs, Python and MongoDB also.
-- 🌱 I’m currently learning everyday more the power of Angular. 
-I am also studying PHP and NGINX.
+- 🌱 I’m currently learning everyday more the power of Angular, JavaScript and it's design patterns.
+I am also studying PHP.
 - 💞️ I’m looking to collaborate on very dynamics web apps projects. 
 I also like to work on projects related to education in general.
 - 📫 Reach me:  
